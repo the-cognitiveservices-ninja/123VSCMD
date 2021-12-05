@@ -1,6 +1,6 @@
 ![CICD Release Pipeline](https://github.com/the-cognitiveservices-ninja/123VSCMD/actions/workflows/main.yml/badge.svg)
 
-### 123PwSh
+### 123VSCMD
 
 [Microsoft Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=holgerimbery.123VSCMD)  
 
@@ -47,6 +47,20 @@ Handy shortcuts for editing Markdown (`.md`, `.markdown`) files.
 | md-shortcut.toggleTitleH6 | Toggle ###### H6 title |  |
 | md-shortcut.addTable | Add Tabular values |  |
 | md-shortcut.addTableWithHeader | Add Tabular values with header |  
+
+##### [vscode-pandoc](https://marketplace.visualstudio.com/items?itemName=DougFinke.vscode-pandoc)
+
+Renders markdown through pandoc  
+
+The vscode-pandoc Visual Studio Code extension lets you quickly render markdown files as a pdf, word document or html file.
+
+##### [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
+
+Spelling checker for source code  
+
+A basic spell checker that works well with camelCase code.
+
+The goal of this spell checker is to help catch common spelling errors while keeping the number of false positives low.
 
 ### 123Family
 

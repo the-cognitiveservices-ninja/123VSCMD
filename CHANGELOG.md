@@ -1,5 +1,10 @@
 # Changelog
 
+## v0.2.0 (12/05/2021)
+
+- add: [vscode-pandoc](https://marketplace.visualstudio.com/items?itemName=DougFinke.vscode-pandoc) - Renders markdown through pandoc
+- add: [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) - Spelling checker for source code
+
 ## v0.1.0 (12/05/2021)
 
 initial release
