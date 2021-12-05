@@ -8,6 +8,10 @@
 
 **123PwSh** is a curated set of VS Code extensions for **mastering Markdown in Visual Studio Code**.  
 
+### Mini Tutorial 
+
+Please find a [mini-tutorial](https://the.cognitiveservices.ninja/articles/VSCMarkdown/)  
+
 ### Elements of the extension pack
 
 ##### [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
