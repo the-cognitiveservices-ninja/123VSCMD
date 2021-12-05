@@ -1,0 +1,21 @@
+{
+    "name": "123vscmd",
+    "displayName": "123VSCMD",
+    "publisher": "holgerimbery",
+    "description": "an extension pack for mastering Markdown",
+    "icon": "assets/logo256x256.png",
+    "version": "0.0.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/holgerimbery/123VSCMD"},
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "DavidAnson.vscode-markdownlint",
+        "mdickin.markdown-shortcuts"
+    ]
+}
