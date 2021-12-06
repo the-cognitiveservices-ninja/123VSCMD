@@ -7,7 +7,7 @@
     "version": "0.0.0",
     "repository": {
         "type": "git",
-        "url": "https://github.com/holgerimbery/123VSCMD"},
+        "url": "https://github.com/the-cognitiveservices-ninja/123VSCMD"},
     "engines": {
         "vscode": "^1.56.0"
     },
